@@ -1,1 +1,0 @@
-# blogsLoan Application Status Prediction
